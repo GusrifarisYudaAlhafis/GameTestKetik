@@ -1,2 +1,2 @@
 # GameTestKetik
-Using Jquery
+Jquery
